@@ -1,2 +1,2 @@
 # Lista-de-Tarefas
-Lista de Tarefas usando Javascript
+Lista de Tarefas feita com HTML, CSS e Javascript.
